@@ -39,6 +39,10 @@ initialize a dictionary:
 
     unique_reads = dict{}
 
+convert file of known umis into a list to compare samfile umis to:
+
+    u = list[]
+
 start with a while True loop:
 
 while True:
